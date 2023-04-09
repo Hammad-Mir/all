@@ -1,4 +1,4 @@
-# cute Lymphoblastic Leukemia (ALL) Detection using Deep Learning models
+# Acute Lymphoblastic Leukemia (ALL) Detection using Deep Learning models
 
 Acute Lymphoblastic Leukemia (ALL) is a cancer of the lymphoid
 line of blood cells characterized by the development of large numbers of immature lymphocytes. Extensive research has been done over the application of machine learning algorithms for detection of ALL but use of Deep Learning (DL) models is relatively scarce. In this paper, we evaluate and compare the available DL architectures with our proposed model for ALL classification and obtain better results as compared to existing ones.
